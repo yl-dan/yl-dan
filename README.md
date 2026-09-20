@@ -77,6 +77,15 @@ allowlist, and recipient allowlisting to prevent relay abuse.
 
 <img src="https://img.shields.io/badge/Google_Apps_Script-0D1117?style=flat-square&labelColor=161B22&logo=google"> <img src="https://img.shields.io/badge/Security-0D1117?style=flat-square&labelColor=161B22">
 
+### [cnpj-enricher](https://github.com/yl-dan/cnpj-enricher)
+
+Vendor due diligence tool that enriches a spreadsheet of Brazilian company
+registrations with public Receita Federal records. Resumable batch processing,
+rate-limit aware retries, and automatic risk flagging for inactive registrations
+and judicial recovery.
+
+<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&labelColor=161B22&logo=python"> <img src="https://img.shields.io/badge/API_Integration-0D1117?style=flat-square&labelColor=161B22"> <img src="https://img.shields.io/badge/Compliance-0D1117?style=flat-square&labelColor=161B22">
+
 ### [windows-maintenance-toolkit](https://github.com/yl-dan/windows-maintenance-toolkit)
 
 Interactive batch menu for routine workstation maintenance and network diagnostics,
