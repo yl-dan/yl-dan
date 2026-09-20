@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="Daniel Batista — Security &amp; Infrastructure Analyst, Blue Team / SOC" width="100%">
+  <img src="banner.svg" alt="Daniel Batista. Security &amp; Infrastructure Analyst, Blue Team / SOC" width="100%">
 </p>
 
 <p align="center">
@@ -18,18 +18,18 @@
 
 ## What I do
 
-**Security &amp; Compliance** — Data Protection Officer (DPO) under the Brazilian
+**Security &amp; Compliance:** Data Protection Officer (DPO) under the Brazilian
 LGPD framework: risk assessment, data mapping, incident response procedures and
 vendor due diligence.
 
-**Identity &amp; Access Management** — Active Directory and IAM administration across
+**Identity &amp; Access Management:** Active Directory and IAM administration across
 a multi-tool environment: provisioning, access reviews, least-privilege enforcement
 and offboarding controls.
 
-**Automation &amp; Integration** — production workflows in n8n, Python, Google Apps
+**Automation &amp; Integration:** production workflows in n8n, Python, Google Apps
 Script and PowerShell, connecting internal systems, ticketing and reporting pipelines.
 
-**Infrastructure** — Linux and Windows administration, networking, VPN, firewalls
+**Infrastructure:** Linux and Windows administration, networking, VPN, firewalls
 and endpoint management.
 
 ---
@@ -38,7 +38,7 @@ and endpoint management.
 
 ```diff
 + Studying for CompTIA Security+ (SY0-701)
-+ Building a defensive security lab portfolio — detection, log analysis, incident triage
++ Building a defensive security lab portfolio: detection, log analysis, incident triage
 + Improving technical English for international remote work
 ```
 
@@ -80,7 +80,7 @@ allowlist, and recipient allowlisting to prevent relay abuse.
 ### [windows-maintenance-toolkit](https://github.com/yl-dan/windows-maintenance-toolkit)
 
 Interactive batch menu for routine workstation maintenance and network diagnostics,
-built entirely on native Windows utilities — no remote code execution, no
+built entirely on native Windows utilities, with no remote code execution and no
 third-party binaries.
 
 <img src="https://img.shields.io/badge/Batch-0D1117?style=flat-square&labelColor=161B22&logo=windowsterminal"> <img src="https://img.shields.io/badge/Sysadmin-0D1117?style=flat-square&labelColor=161B22">
